@@ -1,5 +1,17 @@
 # 📄 Careerlyze – AI-Powered Resume Analyzer
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Puter.js-F5784C?style=for-the-badge&logo=puter&logoColor=white" alt="Puter.js Badge"/>
+  <img src="https://img.shields.io/badge/Zustand-222222?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand Badge"/>
+</p>
+
+---
+
+
 📋 **Table of Contents**
 
 * ✨ [Introduction](#-introduction)
@@ -52,7 +64,32 @@ The project combines modern web development practices with AI integrations to de
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/careerlyze.git
-cd careerlyze
+> git clone https://github.com/your-username/careerlyze.git
 
+> cd careerlyze
+
+### 2. Install Dependencies
+   >npm install
+
+### 3. Run the Project
+   > npm run dev
+
+
+Open http://localhost:5173
+in your browser 🚀
+
+---
+
+## 🚀 Future Improvements
+
+#### 📑 Export AI feedback as PDF reports
+
+#### 🌍 Multi-language resume parsing
+
+#### 🏢 Recruiter dashboard for job management
+
+#### 🤖 Smarter job-matching with embeddings
+
+---
+
+✨ Careerlyze demonstrates how AI + Web Development can come together to create a practical, user-friendly resume analysis tool.
