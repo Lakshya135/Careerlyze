@@ -93,5 +93,3 @@ in your browser 🚀
 ---
 
 ✨ Careerlyze demonstrates how AI + Web Development can come together to create a practical, user-friendly resume analysis tool.
-
----
