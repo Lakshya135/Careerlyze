@@ -95,8 +95,3 @@ in your browser 🚀
 ✨ Careerlyze demonstrates how AI + Web Development can come together to create a practical, user-friendly resume analysis tool.
 
 ---
-
-### 🌐 Live Demo
-
-The project is deployed on **Puter** and accessible here:
-👉 [Careerlyze on Puter](https://puter.com/app/careerlyze-an-ai-resume-analyzer)
